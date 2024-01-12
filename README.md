@@ -4,4 +4,5 @@ We can also choose an different chess board colour combination which we likes.
 To run the game :
   1. Download the zip folder
   2. Extract the zip folder
-  3. Simply click on the chess_main.exe file
+  3. Go to dist folder
+  4. Simply click on the chess_main.exe file
